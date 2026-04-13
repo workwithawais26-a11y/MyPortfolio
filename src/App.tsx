@@ -53,12 +53,12 @@ const Frame = () => (
     
     {/* Micro Typography / Grid Labels */}
     <div className="flex justify-between w-full p-4 sm:p-6 text-[9px] sm:text-[10px] uppercase tracking-[0.2em] font-medium text-black/40">
-      <span>Index</span>
-      <span>{new Date().getFullYear()}</span>
+      <span>Mobile Apps </span>
+      <span>Websites</span>
     </div>
     <div className="flex justify-between w-full p-4 sm:p-6 text-[9px] sm:text-[10px] uppercase tracking-[0.2em] font-medium text-black/40">
-      <span>Status: In Progress</span>
-      <span>Location: Global</span>
+      <span>Landing Pages</span>
+      <span>Framer/Webflow</span>
     </div>
   </div>
 );
