@@ -129,7 +129,7 @@ export default function App() {
             style={{ x: translateX, y: translateY }}
           >
             <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-[7.5rem] font-bold tracking-tighter leading-[1.05] text-black hover:opacity-70 transition-opacity duration-700 cursor-default">
-              My Portfolio<br />
+              My Portfolio is <br />
               Coming Soon<span className="text-black/20">.</span>
             </h1>
           </motion.div>
